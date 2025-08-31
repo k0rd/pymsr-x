@@ -1,4 +1,4 @@
-#pymsrx : A MSR605X Python Library
+# pymsrx : A MSR605X Python Library
 
 A comprehensive Python library for interacting with the MSR605X magnetic stripe card reader/writer. This library provides both low-level device control and high-level forensic analysis capabilities for magnetic stripe cards.
 
