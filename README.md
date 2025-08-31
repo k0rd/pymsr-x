@@ -1,4 +1,4 @@
-# pymsrx : A MSR605X Python Library
+# pymsr-x : A MSR605X Python Library
 
 A comprehensive Python library for interacting with the MSR605X magnetic stripe card reader/writer. This library provides both low-level device control and high-level forensic analysis capabilities for magnetic stripe cards.
 
@@ -22,13 +22,13 @@ A comprehensive Python library for interacting with the MSR605X magnetic stripe 
 ### Install the Library
 
 ```bash
-pip install pymsrx
+pip install pymsr-x
 ```
 
 Or clone this repository and install manually:
 
 ```bash
-git clone https://github.com/k0td/pymsrx.git
+git clone https://github.com/k0td/pymsr-x.git
 cd  pymsrx
 pip install .
 ```
@@ -250,7 +250,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 ### Development Setup
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/k0rd/pymsrx.git`
+2. Clone your fork: `git clone https://github.com/k0rd/pymsr-x.git`
 3. Install development dependencies: `pip install -e .[dev]`
 4. Make your changes and add tests
 5. Run tests: `python -m pytest`
