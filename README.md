@@ -6,8 +6,8 @@ A comprehensive Python library for interacting with the MSR605X magnetic stripe 
 
 - **Full Device Control**: Complete implementation of MSR605X command set (reset, LED control, read/write operations, etc.)
 - **Dual Mode Support**: Read and write in both ISO format and raw data mode
-- **Forensic Analysis**: Advanced card data analysis including validation, pattern detection, and hashing
-- **Card Type Detection**: Automatic identification of credit cards, gift cards, access cards, and hotel keys
+- **Forensic Analysis**: Advanced card data analysis including validation, pattern detection, and hashing                  (data/requests welcome)
+- **Card Type Detection**: Automatic identification of credit cards, gift cards, access cards, and hotel keys              (simplistic - data needed) 
 - **Error Handling**: Robust error handling with custom exceptions for reliable operation
 - **Cross-Platform**: Works on Windows, Linux, and macOS (with appropriate USB permissions)
 
